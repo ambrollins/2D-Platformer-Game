@@ -1,36 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b404bece-2f5d-42bb-892d-8dd1deb5b425" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Game Assets/_img.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game Assets/_img/_levelcompleteimg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game Assets/_img/_levelcompleteimg.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game Assets/_img/_levelcompleteimg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game Assets/_img/_levelcompleteimg.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game Assets/_img/bg1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game Assets/_img/bg1.webp.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game Assets/_img/bg2.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game Assets/_img/bg2/bg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game Assets/_img/bg2/bg2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game Assets/_img/bg3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game Assets/_img/bg3/2109.w026.n002.814B.p1.814.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game Assets/_img/bg3/2109.w026.n002.814B.p1.814.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game Assets/_img/bg4.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game Assets/_img/bg4/bg4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game Assets/_img/bg4/bg4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/EndScene.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/EndScene.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tilemaps/background.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Tilemaps/background.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.2D-Platformer-Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2D-Platformer-Game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game Assets/Utilities/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Assets/Utilities/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Levels/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Levels/Level1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
-    </list>
+    <list default="true" id="b404bece-2f5d-42bb-892d-8dd1deb5b425" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameEnd.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,9 +24,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Discover.Launch.Via.Unity": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "rider.run.widget.enabled.cache": "false",
     "vue.rearranger.settings.migration": "true"
@@ -92,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659936797914</updated>
-      <workItem from="1659936897780" duration="209000" />
+      <workItem from="1659936897780" duration="1062000" />
     </task>
     <servers />
   </component>
