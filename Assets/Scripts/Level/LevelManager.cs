@@ -40,15 +40,13 @@ public class LevelManager : MonoBehaviour
     {
         PlayerPrefs.SetInt(levelName, (int) levelStatus);
     }
-
     public void SetCurrentLevelComplete()
     {
+        Debug.Log("nigga");
         SetLevelStatus(SceneManager.GetActiveScene().name, LevelStatus.Completed);
-
         string nextSceneName = NameFromIndex(SceneManager.GetActiveScene().buildIndex + 1);
         SetLevelStatus(nextSceneName, LevelStatus.Unlocked);
     }
-
     private static string NameFromIndex(int BuildIndex)
     {
         string path = SceneUtility.GetScenePathByBuildIndex(BuildIndex);
